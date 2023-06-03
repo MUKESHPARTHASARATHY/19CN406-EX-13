@@ -122,4 +122,4 @@ $n7 color blue
 # Animation rate
 $ns set-animation-rate 3.0ms
 $ns run
-# OUTPUT:
+
